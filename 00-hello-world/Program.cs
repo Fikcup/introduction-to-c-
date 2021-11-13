@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _00_Check_Installation
+namespace _00_hello_world
 {
     class Program
     {
